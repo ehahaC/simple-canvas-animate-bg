@@ -9,3 +9,9 @@ new Graph(canvas, {
 	canvasBg: "#000000",
 }).draw();
 ```
+
+<br/>
+
+# 截图
+
+![demo.png](https://raw.githubusercontent.com/ehahaC/simple-canvas-animate-bg/master/demo.png)
